@@ -17,6 +17,7 @@
 - Clone this repository
 - Edit `run-scripts.sh` and edit the variables
 - Setup cron to run `run-scripts.sh` every minute or anytime up to your preference.
+- Create a widget on your phone with IFTTT Button Widget to trigger the Applet
 
 ## Author
 
