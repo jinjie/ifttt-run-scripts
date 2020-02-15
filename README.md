@@ -19,6 +19,11 @@
 - Setup cron to run `run-scripts.sh` every minute or anytime up to your preference.
 - Create a widget on your phone with IFTTT Button Widget to trigger the Applet
 
+## Additional information
+
+Instead of creating Button Widget, you can also use other services on IFTTT, such as Google Assistant to control your
+devices.
+
 ## Author
 
 Kong Jin Jie
